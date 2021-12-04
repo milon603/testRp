@@ -1,0 +1,4 @@
+i am just a text file
+git remote add origin https://github.com/milon603/testRp.git
+git branch -M main
+git push -u origin main
